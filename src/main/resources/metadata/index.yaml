@@ -1,8 +1,8 @@
-group: io.kestra.plugin.templates
-name: "template"
-title: "Template"
-description: "Plugin template for Kestra"
+group: io.kestra.plugin.expo
+name: "expo"
+title: "Expo"
+description: "Tasks for sending push notifications to React Native and mobile apps via Expo Push Service"
 body: ""
 videos: []
-createdBy: "Kestra Core Team"
-managedBy: "Kestra Core Team"
+createdBy: "Kestra Community"
+managedBy: "Kestra Community"
